@@ -1,6 +1,7 @@
 ### WhoAmI
     Assalamu Alaikum
-    Hi, I am Mohammad Rhidoy From Bangladesh.I am CTF Player, OSINT Enthusiast, Cyber Security Enthusiast, Animal Lover, Foodie, and love to play games. I would like to     learn new things every day.
+    Hi, I am Mohammad Rhidoy From Bangladesh.I am CTF Player, OSINT Enthusiast, Cyber Security Enthusiast, Animal Lover, Foodie, and love to play game.
+    I would like to learn new things every day.
 
 
 Here are some ideas to get you started:
