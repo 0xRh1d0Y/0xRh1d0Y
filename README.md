@@ -1,12 +1,13 @@
-### WhoAmI
-    Assalamu Alaikum
-    Hi, I am Mohammad Rhidoy From Bangladesh.
-    I am CTF Player,OSINT Enthusiast,Cyber Security Enthusiast,
-    Animal Lover,Foodie and love to play game.
-    I would like to learn new things every day.
+### WhoAmI 😊
+    Assalamu Alaikum.
+    I am Mohammad Rhidoy From Bangladesh.I am CTF Player,OSINT Enthusiast,Cyber Security Enthusiast,Animal Lover,
+    Foodie and love to play game.I would like to learn new things every day.
 
+### Working 🔭
+    - Cyber Security
+    - Ethical Hacking
+    - Web Penetration Testing 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
