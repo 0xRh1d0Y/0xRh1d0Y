@@ -1,8 +1,7 @@
 ### WhoAmI
-    Assalamu Alaikum 👋
+    Assalamu Alaikum
+    Hi, I am Mohammad Rhidoy From Bangladesh.I am CTF Player, OSINT Enthusiast, Cyber Security Enthusiast, Animal Lover, Foodie, and love to play games. I would like to     learn new things every day.
 
-<!--
-**0xRh1d0Y/0xRh1d0Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=0xRh1d0Y&show_icons=true&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
