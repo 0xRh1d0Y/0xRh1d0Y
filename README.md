@@ -47,10 +47,10 @@
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0xRh1d0Y)
 
 ### Pronouns 😄
-    -He/His 
+    - He/His.
 
 ### Fun Fact ⚡
-    - 
+    - I sleep a lot.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xRh1d0Y&show_icons=true&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
@@ -58,5 +58,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xRh1d0Y)
 
 ![GitHub metrics](https://metrics.lecoq.io/0xRh1d0Y)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xRh1d0Y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0xRh1d0Y&screen_name=0xRh1d0Y)
 
 ![Profile views](https://gpvc.arturio.dev/0xRh1d0Y)
