@@ -25,8 +25,12 @@
     - Bug Hunting
     - Automation 
     
-
-
+### Hobbies ☺️
+    - Playing Game (online&offline)
+    - Watching Movies & Drama.
+    - Lisening Soft Song
+    
+    
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
