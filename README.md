@@ -7,9 +7,15 @@
     - Cyber Security
     - Ethical Hacking
     - Web Penetration Testing 
+### Learning 🌱
+    - CTF
+    - Digital Forensics
+    - Reverse-Engineering
+    - OSINT
+    - Bug Bounty
+    - Basic Networking
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
