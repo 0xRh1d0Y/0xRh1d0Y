@@ -2,6 +2,15 @@
     Assalamu Alaikum.
     I am Mohammad Rhidoy From Bangladesh.I am CTF Player,OSINT Enthusiast,Cyber Security Enthusiast,Animal Lover,
     Foodie and love to play game.I would like to learn new things every day.
+    
+### Skills & Experience ⚡
+    - 💥Programming Language: Basics of C.
+    - 💥Web & Scripting Languages: HTML / CSS / Basics of JavaScript / Shell Scripting.
+    - 💥Operating Systems: Microsoft Windows / Kali Linux / Different Linux distros.
+    - 💥Cryptography / Osint / Steganograph / Boot to Root Machines.
+    - 💀 Ethical Hacking / Osint / Basic Networking / CTF Player.
+    - 👀 Try Hack Me / Hack The Box / Cyber Talents/ Ctf Learn / Pico Ctf.
+    - 💪 Metasploit / Nmap / Burp-suite / Wireshark / Fuff / Jon the ripper / Hydra / Sqlmap / etc.
 
 ### Working 🔭
     - Cyber Security.
@@ -21,7 +30,7 @@
     - Hackthebox.
     - Knowledge Sharing.
     
-### Looking for help 🤔
+### Looking For Help 🤔
     - Bug Hunting.
     - Automation. 
     
@@ -31,8 +40,10 @@
     - Watching Movies & Drama.
     - Lisening Soft Song.
     
-    
-- 💬 Ask me about ...
+### How to reach me 📫
+    - 
+
+- 💬 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
