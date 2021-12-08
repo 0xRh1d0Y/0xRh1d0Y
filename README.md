@@ -15,10 +15,18 @@
     - Bug Bounty
     - Basic Networking
 
+### Collaborate 👯
+    - CTF
+    - Tryhackme
+    - Hackthebox
+    - Knowledge Sharing
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### Looking for help 🤔
+    - Bug Hunting
+    - Automation 
+    
+
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
