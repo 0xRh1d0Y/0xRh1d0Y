@@ -4,31 +4,32 @@
     Foodie and love to play game.I would like to learn new things every day.
 
 ### Working 🔭
-    - Cyber Security
-    - Ethical Hacking
-    - Web Penetration Testing 
+    - Cyber Security.
+    - Ethical Hacking.
+    - Web Penetration Testing .
 ### Learning 🌱
-    - CTF
-    - Digital Forensics
-    - Reverse-Engineering
-    - OSINT
-    - Bug Bounty
-    - Basic Networking
+    - CTF.
+    - Digital Forensics.
+    - Reverse-Engineering.
+    - OSINT.
+    - Bug Bounty.
+    - Basic Networking.
 
 ### Collaborate 👯
-    - CTF
-    - Tryhackme
-    - Hackthebox
-    - Knowledge Sharing
-
+    - CTF.
+    - Tryhackme.
+    - Hackthebox.
+    - Knowledge Sharing.
+    
 ### Looking for help 🤔
-    - Bug Hunting
-    - Automation 
+    - Bug Hunting.
+    - Automation. 
     
 ### Hobbies ☺️
-    - Playing Game (online&offline)
+    - Learning New Skill/Technology.
+    - Playing Game.(online&offline)
     - Watching Movies & Drama.
-    - Lisening Soft Song
+    - Lisening Soft Song.
     
     
 - 💬 Ask me about ...
