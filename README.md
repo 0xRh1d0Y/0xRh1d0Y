@@ -1,4 +1,4 @@
-### WhoAmI 😊
+### WhoAmI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     Assalamu Alaikum.
     I'm Mohammad Rhidoy - aka 0xRh1d0Y.I am From Bangladesh.I am CTF Player,OSINT Enthusiast,Cyber Security Enthusiast,
     Animal Lover,Foodie and love to play game.I would like to learn new things every day.
